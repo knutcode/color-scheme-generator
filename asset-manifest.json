@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/colorscheme-generator/static/css/main.09a7f109.css",
+    "main.js": "/colorscheme-generator/static/js/main.870d9464.js",
+    "index.html": "/colorscheme-generator/index.html",
+    "main.09a7f109.css.map": "/colorscheme-generator/static/css/main.09a7f109.css.map",
+    "main.870d9464.js.map": "/colorscheme-generator/static/js/main.870d9464.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09a7f109.css",
+    "static/js/main.870d9464.js"
+  ]
+}
